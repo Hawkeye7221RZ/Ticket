@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch StudyGroup.js",
+            "program": "${workspaceFolder}/jss/StudyGroup.js",
+            "internalConsoleOptions": "neverOpen"
+        }
+    ]
+}
