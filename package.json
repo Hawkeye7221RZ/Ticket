@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "@types/react": "^19.2.7",
+    "typescript": "^5.9.3"
+  },
+  "name": "vscode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "StudyGroup.js",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.110.1",
+    "csstype": "^3.2.3",
+    "tsx": "^4.22.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hawkeye7221RZ/Ticket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hawkeye7221RZ/Ticket/issues"
+  },
+  "homepage": "https://github.com/Hawkeye7221RZ/Ticket#readme"
+}
